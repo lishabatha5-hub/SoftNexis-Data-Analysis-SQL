@@ -23,3 +23,29 @@ Files:
 ## Author
 Batha Lisha
 B.Tech CSE (Data Science)
+## Task 2: Exploratory Data Analysis (EDA)
+
+### Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+### Dataset
+Titanic Dataset
+
+### Tasks Performed
+- Data exploration using df.head()
+- Dataset information using df.info()
+- Statistical summary using df.describe()
+- Missing value analysis
+- Survival Count Visualization
+- Age Distribution Analysis
+- Survival by Gender Analysis
+- Correlation Heatmap
+
+### Files
+- Domain15_Task2_EDA.ipynb
+- titanic.csv
