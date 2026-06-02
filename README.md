@@ -49,3 +49,25 @@ Titanic Dataset
 ### Files
 - Domain15_Task2_EDA.ipynb
 - titanic.csv
+
+## Task 3: Time Series Analysis
+
+### Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+
+### Dataset
+Airline Passengers Dataset
+
+### Tasks Performed
+- Loaded time series dataset
+- Trend analysis visualization
+- Moving Average (6-month and 12-month)
+- Time series pattern analysis
+
+### Files
+- Domain15_Task3_TimeSeries.ipynb
+- airline-passengers.csv
+    
