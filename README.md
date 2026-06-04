@@ -71,3 +71,37 @@ Airline Passengers Dataset
 - Domain15_Task3_TimeSeries.ipynb
 - airline-passengers.csv
     
+## Task 5: Machine Learning Modeling
+
+### Objective
+Build and evaluate machine learning models using the Titanic dataset.
+
+### Tools Used
+- Python
+- Pandas
+- Scikit-Learn
+- Jupyter Notebook
+
+### Models Used
+- Logistic Regression
+- Random Forest Classifier
+
+### Dataset
+- Titanic Dataset
+
+### Tasks Performed
+- Data Loading
+- Data Preprocessing
+- Feature Selection
+- Train-Test Split
+- Logistic Regression Model Training
+- Random Forest Model Training
+- Accuracy Evaluation
+- Model Comparison
+
+### Files
+- Domain15_Task5_MachineLearning.ipynb
+- titanic.csv
+
+### Conclusion
+Machine learning models were trained using the Titanic dataset. Logistic Regression and Random Forest classifiers were evaluated using accuracy metrics. The models successfully predicted passenger survival and their performances were compared.
